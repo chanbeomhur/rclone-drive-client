@@ -1,0 +1,7 @@
+
+# Generated tool files follow their native Python and OpenTofu conventions.
+.venv/
+__pycache__/
+.terraform/
+*.tfstate
+*.tfstate.*

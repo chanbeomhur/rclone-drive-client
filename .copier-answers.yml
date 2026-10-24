@@ -1,0 +1,26 @@
+_commit: v1.1.17
+_src_path: https://github.com/chanbeomhur/research-agent-home.git
+agent_instructions_owner: template
+content_type: source
+default_branch: main
+delivery_workflows: []
+extra_pre_commit_repositories: []
+extra_renovate_presets: []
+gitignore_patterns: ''
+manual_workflows: []
+pre_commit_options: {}
+qualification_commands: pre-commit run --all-files
+qualification_runner: '"ubuntu-latest"'
+qualification_scope: none
+qualification_setup: ''
+qualification_workflows: {}
+readme_owner: existing
+renovate_configuration: {}
+repository_description: ''
+repository_kind: personal
+repository_labels: {}
+repository_title: Repository
+repository_visibility: public
+research_rules: true
+standard_repository: chanbeomhur/research-agent-home
+standard_repository_visibility: private
