@@ -1,4 +1,4 @@
-Read the [common instructions](https://github.com/chanbeomhur/research-agent-home/blob/2e9d185e869aae8c077dba3c97880dc06119ecb2/AGENTS.md) before changing this repository.
+Read the [common instructions](https://github.com/chanbeomhur/research-agent-home/blob/12bb88c10d9bba6b1acfc1743cf0d24889cda915/AGENTS.md) before changing this repository.
 
 Repository differences are declared in `.copier-answers.yml`. Change answers with
 `copier update --defaults --data NAME=VALUE`. Never edit the answers file manually.
