@@ -1,4 +1,4 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github\u003echanbeomhur/research-agent-home#v1.1.17"]
+  "extends": ["github\u003echanbeomhur/research-agent-home#v1.1.22"]
 }
